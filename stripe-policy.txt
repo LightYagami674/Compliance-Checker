@@ -1,0 +1,37 @@
+Recommended Terms
+For your platform to efficiently leverage Stripe Treasury, you need to brand and communicate the nature of the product while being mindful of regulations. Refer to the following list of recommended terms to use in your messaging when building out your implementation of the product.
+Money management, or money management account or solution
+Cash management, or cash management account or solution
+[Your brand] account
+Financial services
+Financial account
+Financial product
+Financial service product
+Store of funds
+Wallet or open loop wallet
+Stored-value account
+Open-Loop stored-value account
+Prepaid access account
+Eligible for FDIC “pass-through” insurance
+Funds held at [Partner Bank], Member FDIC
+
+
+Terms to Avoid
+Avoid the terms in this list for any marketing programs you create because only financial institutions licensed as banks can use them.
+Stripe or [Your Brand] bank
+Bank account
+Bank balance
+Banking
+Banking account
+Banking product
+Banking platform
+Deposits
+Mobile banking
+[Your Brand] pays interest
+[Your Brand] sets interest rates
+[Your Brand] advances funds
+Phrases that suggest your users receive banking products or services directly from bank partners, for example:
+Create a [Bank Partner] bank account
+A better way to bank with [Bank Partner]
+Mobile banking with [Bank Partner]
+Mercury
