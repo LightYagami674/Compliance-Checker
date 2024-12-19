@@ -34,4 +34,3 @@ Phrases that suggest your users receive banking products or services directly fr
 Create a [Bank Partner] bank account
 A better way to bank with [Bank Partner]
 Mobile banking with [Bank Partner]
-Mercury
